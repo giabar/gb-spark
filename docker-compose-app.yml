@@ -1,0 +1,11 @@
+version: "3"
+services:
+  app:
+    build: ./app
+    networks:
+      - spark-net
+
+networks:
+  spark-net:
+    external:
+      name: spark-net
