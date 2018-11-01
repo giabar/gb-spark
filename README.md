@@ -1,5 +1,6 @@
 # Spark Docker images
 _Docker base image: openjdk:8u181-jdk-stretch (Debian 9.5 with OpenJDK 1.8.181)_
+
 _Apache Spark version: 2.3.2_
 
 [![DockerPulls](https://img.shields.io/docker/pulls/giabar/gb-spark.svg)](https://registry.hub.docker.com/u/giabar/gb-spark/)
